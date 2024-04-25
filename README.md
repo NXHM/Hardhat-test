@@ -39,3 +39,7 @@ npx hardhat node
 ```shell
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
+* Para elegir una red en especifico
+```shell
+npx hardhat ignition deploy ./ignition/modules/Lock.js --network <your-network>
+```
