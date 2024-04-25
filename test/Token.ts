@@ -2,6 +2,7 @@ import {expect} from "chai";
 import {ethers} from "hardhat";
 // Se crea una prueba de unitaria
 // Titulo
+// No fixture
 describe("Token contract",function(){
     // Descripción de la prueba
     it("Deployment should assign the total supply of tokens to the owner",async function(){

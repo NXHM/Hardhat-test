@@ -4,6 +4,7 @@ import {ethers} from "hardhat";
 import { loadFixture } from "@nomicfoundation/hardhat-toolbox/network-helpers";
 // Se crea una prueba de unitaria
 // Titulo
+// Fixture
 describe("Token contract", function () {
     // We define a fixture to reuse the same setup in every test. We use
     // loadFixture to run this setup once, snapshot that state, and reset Hardhat
