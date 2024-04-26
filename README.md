@@ -1,6 +1,7 @@
 # Está basado en el Sample Hardhat Project
 
-He seguido el tutorial para aprender el uso de Hardhat. 
+He seguido el tutorial y documentación para aprender el uso de Hardhat. 
+
 Esta compuesto de:
 *  Smart contracts
 *  Tests para los smart contracts
